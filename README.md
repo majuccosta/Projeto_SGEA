@@ -1,4 +1,4 @@
-# SGEA
+# PROJETO SGEA
 
 ## Tema: Sistema de Gestão de Eventos Acadêmicos
 
